@@ -105,3 +105,4 @@ TODO.md
 /fastlane/*.json
 /fastlane/Appfile
 /fastlane/metadata/android/
+/app/keystore_ff.jks
