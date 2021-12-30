@@ -1,26 +1,8 @@
-AndroBlue  
+Traducteur Football-Fantaisie
 ============  
-  
-AndroBlue is an Android application used to send command to the Hyundai
- Ioniq EV 2020 from Canada. It is available on the Play Store at:
- https://play.google.com/store/apps/details?id=androblue.app
 
-![Alt text](app/assets/screenshot_1.webp?raw=true "Screenshot 1")
-![Alt text](app/assets/screenshot_2.webp?raw=true "Screenshot 2")
-![Alt text](app/assets/screenshot_3.webp?raw=true "Screenshot 3")
+TODO
 
-Thanks https://github.com/Hacksore/bluelinky for the inspiration!
-
-Icons made by <a href="https://www.flaticon.com/authors/debi-alpa-nugraha" title="Debi Alpa Nugraha">Debi Alpa Nugraha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-Icons made by <a href="https://www.flaticon.com/authors/handicon" title="Handicon">Handicon</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
-
-## Disclaimer
-
-This repository is for research purposes only, the use of this code is your responsibility.  
-  
-I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.
-  
-  
 License  
 -------  
   
