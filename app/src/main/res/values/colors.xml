@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ripple">#666666</color>
+
+    <color name="primary">#ffcb01</color>
+    <color name="secondary">#c1698b</color>
+
+    <color name="reticlebg">#99000000</color>
+    <color name="reticlebox">#40000000</color>
+    <color name="reticleripple">#9AFFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="blue">#0000ff</color>
+    <color name="green">#00ff00</color>
+    <color name="orange">#FF6A00</color>
+    <color name="yellow">#FFE303</color>
+    <color name="grey">#767474</color>
+    <color name="transparent">#00000000</color>
+</resources>

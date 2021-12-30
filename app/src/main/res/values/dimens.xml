@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="reticlebox_strokewidth">4dp</dimen>
+    <dimen name="reticlebox_radius">8dp</dimen>
+    <dimen name="reticleripple_strokewidth">4dp</dimen>
+    <dimen name="strokemaxoffset">40dp</dimen>
+
+</resources>
