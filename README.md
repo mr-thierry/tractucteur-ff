@@ -1,9 +1,12 @@
 Traducteur Football-Fantaisie
 ============  
 
-TODO
+"Traducteur Football-Fantaisie" permet d'avoir une traduction en temps réel les textes en Pototeau dans la bande dessinée Football-Fantaisie de Zviane.
 
-License  
+Tous les textes ne sont pas complètement traduits. Vous pouvez m'envoyez des suggestions ici:
+https://github.com/mr-thierry/tractucteur-ff/issues
+
+License
 -------  
   
     Copyright 2021 Thierry-Dimitri Roy
