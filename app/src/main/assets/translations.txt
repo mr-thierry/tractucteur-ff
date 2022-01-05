@@ -5,7 +5,7 @@ camion=histoire
 loi=de
 1o1=de
 mille=deux
-livret=jeune
+livret=petit
 latin=fille
 cinq=douze
 zero=six
@@ -188,7 +188,7 @@ ne=à
 lombric=jour
 bagate=logiciel
 que=des
-ramer=une
+ramer=un
 kaisse=idée
 pit=ça
 clach=criss
@@ -204,6 +204,7 @@ crucifier=???
 derobard=???
 odorat=???
 velo=???
+paien=conversation
 #
 #fouihatd pour fouinard
 fouinard=???
